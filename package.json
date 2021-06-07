@@ -1,10 +1,9 @@
 {
-  "name": "uniqued_id",
+  "name": "@naseelniyas/unique_id",
   "version": "1.0.0",
   "description": "Generate random numbers",
   "main": "index.js",
   "repository": "https://github.com/naseelniyas/uniqueid",
   "author": "Naseel Niyas",
-  "license": "MIT",
-  "type": "module"
+  "license": "MIT"
 }
